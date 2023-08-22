@@ -4,3 +4,5 @@ The "Evil Portal" project showcases a type of phishing attack known as an Evil P
 
 # Project Goals
 I chose this project to illustrate how easily and rapidly a fake Wi-Fi network can be set up using the Flipper Zero. The project aims to raise awareness about the risks posed by insecure public Wi-Fi networks and to emphasize the importance of security conscious behavior among users.
+
+Video: https://youtu.be/kotBjlvcGSs
